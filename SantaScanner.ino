@@ -3,8 +3,8 @@
 #include <LiquidCrystal_I2C.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "TALKTALK89EA45";
-const char* password = "QHAJ4W7J";
+const char* ssid = "";
+const char* password = "";
 
 
 ESP8266WebServer server(80);
